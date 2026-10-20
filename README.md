@@ -46,11 +46,11 @@ https://user-images.githubusercontent.com/21256355/192135828-8fa7d9bb-9b4d-41f9-
 
 ### Source code
 
-The source code is hosted on GitHub: [qiayuanliao/legged_control](https://github.com/qiayuanliao/legged_control).
+The source code is hosted on GitHub: [wei-hsuan-cheng/legged_control](https://github.com/wei-hsuan-cheng/legged_control).
 
 ```
 # Clone legged_control
-git clone git@github.com:qiayuanliao/legged_control.git
+git clone https://github.com/wei-hsuan-cheng/legged_control.git
 ```
 
 ### OCS2
